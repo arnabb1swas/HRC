@@ -1,0 +1,29 @@
+body {
+  background-color: #283d4a;
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  display: flex;
+  height: 60px;
+  padding-top: 6px;
+}
+
+.logoF {
+  padding-left: 20px;
+}
+
+.logoS {
+  padding-left: 25%;
+}
+
+.invoice {
+  color: white;
+  padding-left: 25px;
+  font-size: 30px;
+}
+
+.overall {
+  background-color: #283d4a;
+}

@@ -1,0 +1,35 @@
+.content {
+  display: flex;
+  justify-content: center;
+  padding-top: 6px;
+  padding-bottom: 1px;
+  background-color: #283d4a;
+}
+
+a:link {
+  color: #0063cc;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #0063cc;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0063cc;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #0063cc;
+  text-decoration: underline;
+}
+
+.para {
+  color: aliceblue;
+}
+
+.hrc-link {
+  padding-block: 14px;
+}
